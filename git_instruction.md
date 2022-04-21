@@ -1,3 +1,5 @@
+![logo](kisspng-github-repository-version-control-source-code-network-node-5ae13f80e99f63.3541394415247112969569.jpg)
+
 # Работа с Git
 
 ## 1. Проверка наличия установленного Git
